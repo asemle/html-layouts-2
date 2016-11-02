@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  border: 0;
+}
+
+.body {
+  padding: 50px;
+  text-align: center;
+}
+
+.first {
+  height: 110px;
+  width: 100%;
+  text-align: center;
+}
+
+.box {
+  display: inline-block;
+  width: 31%;
+  height: 100%;
+  margin: 0 1%;
+}
+
+.red {
+  background-color: #D0021B;
+
+}
+
+.blue {
+  background-color: #4A90E2;
+
+}
+
+.black {
+  background-color: #4A4A4A;
+}
+
+.second {
+  margin: 25px 1%;
+}
+
+.third {
+  margin: 1%;
+  width: 100%;
+  height: 250px;
+}
+
+.redrect {
+  margin: 0;
+  width: 30%;
+  height: 100%;
+  display: inline-block;
+  float: left;
+}
+
+.bluerect {
+  margin: 0;
+  width: 68%;
+  height: 100%;
+  display: inline-block;
+  float: left;
+}
+
+.fourth {
+  margin: 2% 1% 2% 1%;
+  width: 100%;
+  height: 95px;
+}
+
+.longblue {
+  height: 100%;
+  width: 70%;
+  display:inline-block;
+  float: left;
+}
+
+.redline {
+  height: 100%;
+  width: 3%;
+  display: inline-block;
+  float: left;
+}
+
+.blacksqr {
+  height: 100%;
+  width: 22%;
+  display: inline-block;
+  float: left;
+}
